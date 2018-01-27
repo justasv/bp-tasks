@@ -24,3 +24,13 @@ mysql> source part[1,2]/query.sql
 ```bash
     python3 main.py -f inputs/[0,1].txt
 ```
+
+### Part 4
+1. Running the recursive solution
+```bash
+    python3 recursive_sort_out_solution.py -n 3
+```
+2. Running the loop based solution
+```bash
+    python3 loop_base_solution.py -n 3
+```
