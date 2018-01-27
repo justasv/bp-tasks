@@ -19,3 +19,8 @@ mysql -u username -p database_name < part[1,2]/test_part[1,2]_dump.sql
 mysql> source part[1,2]/query.sql
 ```
 
+### Part 3
+1. Running the solution
+```bash
+    python3 main.py -f inputs/[0,1].txt
+```
